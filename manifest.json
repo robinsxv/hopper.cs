@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "HopperCS",
+    "version": "1.0.0",
+    "description": "Chrome-Extension for the Steam Marketplace to find rare Stickers on Weapons",
+
+    "permissions": ["tabs", "scripting"],
+    "host_permissions": ["*://steamcommunity.com/market/listings/730/*"],
+    "background": {
+        "service_worker": "background.js"
+      },
+    "content_scripts": [
+        {
+            "js": [
+                "content.js"
+            ],
+            "matches": [
+                "*://steamcommunity.com/market/listings/730/*"
+            ]
+        }
+    ]
+}

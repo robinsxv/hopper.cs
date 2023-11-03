@@ -1,0 +1,1045 @@
+{
+    "success": true,
+    "start": 10,
+    "pagesize": 10,
+    "total_count": 23,
+    "results_html": "<div class=\"market_listing_table_header\">\r\n\t<div class=\"market_listing_price_listings_block\">\r\n\t\t<span class=\"market_listing_right_cell market_listing_action_buttons\"></span>\r\n\t\t<span class=\"market_listing_right_cell market_listing_their_price\">PRICE</span>\r\n\t</div>\r\n\t<span class=\"market_listing_right_cell market_listing_seller\">SELLER</span>\r\n\t<div><span class=\"market_listing_header_namespacer\"></span>NAME</div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_3567415019122103598\" id=\"listing_3567415019122103598\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_3567415019122103598_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '3567415019122103598', 730, '2', '18556623919')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t28,75€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t27,50€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t25,--€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar offline\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KrFSjJ3X0RCiAND9ErXRZnIUhVLEdDMICFpTgcSBfwMo8yPPn6ib5ZMUYRCsihQaynjNV0k185Nv/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_3567415019122103598_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_3548272183330949026\" id=\"listing_3548272183330949026\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_3548272183330949026_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '3548272183330949026', 730, '2', '24401486680')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t25,13€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t24,04€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t21,86€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar online\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KrYHjMna2ECjAtGuFODRPiVH1leUJzZcXlwG1JCMegAj_CXFnP_I5JUUYRCsihQaynjNVyNUxhiG/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_3548272183330949026_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_4364502788339156399\" id=\"listing_4364502788339156399\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_4364502788339156399_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '4364502788339156399', 730, '2', '5042274388')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t28,95€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t27,70€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t25,19€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar offline\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KuIA3MjTjkbwUoOsFbfRZiAShQbBfGIICgpV05aKKg8i83mamq6esscUYRCsihQaynjNV8siPIKc/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_4364502788339156399_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_3523422564414891665\" id=\"listing_3523422564414891665\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_3523422564414891665_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '3523422564414891665', 730, '2', '10698336459')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t34,08€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t32,60€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t29,64€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar offline\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KrMDgZrS3kKnVIOgErDSOnISjlfHIjFTD1xS1ZqIfwYqonPEk6rJ58MUYRCsihQaynjNV6kz_Nrg/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_3523422564414891665_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_1935866193949891707\" id=\"listing_1935866193949891707\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_1935866193949891707_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '1935866193949891707', 730, '2', '4549105758')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t37,04€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t35,43€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t32,21€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar offline\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KuAH35zb0Rz1A9KqELfVOyNBg1zKcTcPXQoD1Mbcf1MsoHjNkqnM4ZQUYRCsihQaynjNV_rceQle/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_1935866193949891707_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_4319566252869643372\" id=\"listing_4319566252869643372\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_4319566252869643372_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '4319566252869643372', 730, '2', '31884259229')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t44,85€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t42,90€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t39,--€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar offline\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KucE383ajROnUND9FrzcaCVGhwHFdGcIDQ9W0peALVEjoCLNyaicscQUYRCsihQaynjNV3KfDfb8/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_4319566252869643372_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_4388251855330838135\" id=\"listing_4388251855330838135\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_4388251855330838135_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '4388251855330838135', 730, '2', '999761445')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t50,27€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t48,09€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t43,72€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar offline\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KrIFjs2H2BP5BtT5EODRayBPgQGRdzEIW11Y25XdKQcs8iSfn6jP4pAUYRCsihQaynjNV-9gasXm/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_4388251855330838135_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_1938117359902415098\" id=\"listing_1938117359902415098\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_1938117359902415098_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '1938117359902415098', 730, '2', '14045115736')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t56,41€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t53,96€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t49,06€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar offline\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KuAAi5jQ3UGiUISoRbDUPiBB0VbBImMOC11W0MHbeQ4jonPPma-e48QUYRCsihQaynjNV_EeUrV0/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_1938117359902415098_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_4080853190187716178\" id=\"listing_4080853190187716178\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_4080853190187716178_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '4080853190187716178', 730, '2', '20116100967')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t40,48€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t38,72€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t35,20€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar offline\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KrkC2JiG3kbwCdD9FueGOSVChlPLImdSDlxV0pLee1Z98XianP7JtpYUYRCsihQaynjNV96PjY0R/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_4080853190187716178_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n\r\n<div class=\"market_listing_row market_recent_listing_row listing_4322947123449165659\" id=\"listing_4322947123449165659\">\r\n\t\r\n\t<div class=\"market_listing_item_img_container\">\t\t<img id=\"listing_4322947123449165659_image\" src=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f\" srcset=\"https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62f 1x, https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg/62fx62fdpx2x 2x\" style=\"border-color: #D2D2D2;\" class=\"market_listing_item_img\" alt=\"\" />\t</div>\r\n\t\t<div class=\"market_listing_price_listings_block\">\r\n\t\t\t\t\t<div class=\"market_listing_right_cell market_listing_action_buttons\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"market_listing_buy_button\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"javascript:BuyMarketListing('listing', '4322947123449165659', 730, '2', '1514957389')\" class=\"item_market_action_button btn_green_white_innerfade btn_small\">\r\n\t\t\t\t\t\t\t\t<span>\r\n\t\t\t\t\t\t\t\t\tBuy Now\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t<div class=\"market_listing_right_cell market_listing_their_price\">\r\n\t\t\t<span class=\"market_table_value\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_fee\">\r\n\t\t\t\t\t\t67,02€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_with_publisher_fee_only\">\r\n\t\t\t\t\t\t64,11€\t\t\t\t\t</span>\r\n\t\t\t\t\t<span class=\"market_listing_price market_listing_price_without_fee\">\r\n\t\t\t\t\t\t58,29€\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t<br/>\r\n\t\t\t\t\t\t\t</span>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"market_listing_right_cell market_listing_seller\">\r\n\t\t<span class=\"market_listing_owner_avatar\">\r\n\t\t\t<span class=\"playerAvatar online\" >\r\n\t\t\t\t<img src=\"https://community.akamai.steamstatic.com/market/image/hCNkgRq8ymgOP_egPk3b1EToAAtj8ydJJG7T-Gf9EkWWwwx8KrVUjcjV2hfwCNCuFuaAaHNChAaUIGtTWl9X1ZHeLlEipyOYk63P5JcUYRCsihQaynjNVyX977se/avatar.jpg\" alt=\"\">\r\n\t\t\t</span>\r\n\t\t</span>\r\n\t</div>\r\n\r\n\t\t<div class=\"market_listing_item_name_block\">\r\n\t\t<span id=\"listing_4322947123449165659_name\" class=\"market_listing_item_name\" style=\"color: #D2D2D2;\">AK-47 | Predator (Well-Worn)</span>\r\n\t\t<br/>\r\n\t\t<span class=\"market_listing_game_name\">Counter-Strike 2</span>\r\n\t</div>\r\n\t<div style=\"clear: both;\"></div>\r\n</div>\r\n",
+    "listinginfo": {
+        "3567415019122103598": {
+            "listingid": "3567415019122103598",
+            "price": 2500,
+            "fee": 375,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2003,
+            "steam_fee": 125,
+            "publisher_fee": 250,
+            "converted_price": 2500,
+            "converted_fee": 375,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 125,
+            "converted_publisher_fee": 250,
+            "converted_price_per_unit": 2500,
+            "converted_fee_per_unit": 375,
+            "converted_steam_fee_per_unit": 125,
+            "converted_publisher_fee_per_unit": 250,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "18556623919",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2930862930337507699",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        },
+        "3548272183330949026": {
+            "listingid": "3548272183330949026",
+            "price": 217392,
+            "fee": 32608,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2005,
+            "steam_fee": 10869,
+            "publisher_fee": 21739,
+            "converted_price": 2186,
+            "converted_fee": 327,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 109,
+            "converted_publisher_fee": 218,
+            "converted_price_per_unit": 2186,
+            "converted_fee_per_unit": 327,
+            "converted_steam_fee_per_unit": 109,
+            "converted_publisher_fee_per_unit": 218,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "24401486680",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7530236447438301137",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        },
+        "4364502788339156399": {
+            "listingid": "4364502788339156399",
+            "price": 2519,
+            "fee": 376,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2003,
+            "steam_fee": 125,
+            "publisher_fee": 251,
+            "converted_price": 2519,
+            "converted_fee": 376,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 125,
+            "converted_publisher_fee": 251,
+            "converted_price_per_unit": 2519,
+            "converted_fee_per_unit": 376,
+            "converted_steam_fee_per_unit": 125,
+            "converted_publisher_fee_per_unit": 251,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "5042274388",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D1064657558638076761",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        },
+        "3523422564414891665": {
+            "listingid": "3523422564414891665",
+            "price": 4349,
+            "fee": 651,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2020,
+            "steam_fee": 217,
+            "publisher_fee": 434,
+            "converted_price": 2964,
+            "converted_fee": 444,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 148,
+            "converted_publisher_fee": 296,
+            "converted_price_per_unit": 2964,
+            "converted_fee_per_unit": 444,
+            "converted_steam_fee_per_unit": 148,
+            "converted_publisher_fee_per_unit": 296,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "10698336459",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7962613604407446943",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        },
+        "1935866193949891707": {
+            "listingid": "1935866193949891707",
+            "price": 14349,
+            "fee": 2151,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2006,
+            "steam_fee": 717,
+            "publisher_fee": 1434,
+            "converted_price": 3221,
+            "converted_fee": 483,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 161,
+            "converted_publisher_fee": 322,
+            "converted_price_per_unit": 3221,
+            "converted_fee_per_unit": 483,
+            "converted_steam_fee_per_unit": 161,
+            "converted_publisher_fee_per_unit": 322,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "4549105758",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11533378503150822225",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        },
+        "4319566252869643372": {
+            "listingid": "4319566252869643372",
+            "price": 3900,
+            "fee": 585,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2003,
+            "steam_fee": 195,
+            "publisher_fee": 390,
+            "converted_price": 3900,
+            "converted_fee": 585,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 195,
+            "converted_publisher_fee": 390,
+            "converted_price_per_unit": 3900,
+            "converted_fee_per_unit": 585,
+            "converted_steam_fee_per_unit": 195,
+            "converted_publisher_fee_per_unit": 390,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "31884259229",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D17014817921790903733",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        },
+        "4388251855330838135": {
+            "listingid": "4388251855330838135",
+            "price": 434783,
+            "fee": 65217,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2005,
+            "steam_fee": 21739,
+            "publisher_fee": 43478,
+            "converted_price": 4372,
+            "converted_fee": 655,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 218,
+            "converted_publisher_fee": 437,
+            "converted_price_per_unit": 4372,
+            "converted_fee_per_unit": 655,
+            "converted_steam_fee_per_unit": 218,
+            "converted_publisher_fee_per_unit": 437,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "999761445",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D14709933171324928977",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        },
+        "1938117359902415098": {
+            "listingid": "1938117359902415098",
+            "price": 5219,
+            "fee": 781,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2001,
+            "steam_fee": 260,
+            "publisher_fee": 521,
+            "converted_price": 4906,
+            "converted_fee": 735,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 245,
+            "converted_publisher_fee": 490,
+            "converted_price_per_unit": 4906,
+            "converted_fee_per_unit": 735,
+            "converted_steam_fee_per_unit": 245,
+            "converted_publisher_fee_per_unit": 490,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "14045115736",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D13988222782511516123",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        },
+        "4080853190187716178": {
+            "listingid": "4080853190187716178",
+            "price": 350000,
+            "fee": 52500,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2005,
+            "steam_fee": 17500,
+            "publisher_fee": 35000,
+            "converted_price": 3520,
+            "converted_fee": 528,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 176,
+            "converted_publisher_fee": 352,
+            "converted_price_per_unit": 3520,
+            "converted_fee_per_unit": 528,
+            "converted_steam_fee_per_unit": 176,
+            "converted_publisher_fee_per_unit": 352,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "20116100967",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D4614715044119973853",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        },
+        "4322947123449165659": {
+            "listingid": "4322947123449165659",
+            "price": 579700,
+            "fee": 86955,
+            "publisher_fee_app": 730,
+            "publisher_fee_percent": "0.100000001490116119",
+            "currencyid": 2005,
+            "steam_fee": 28985,
+            "publisher_fee": 57970,
+            "converted_price": 5829,
+            "converted_fee": 873,
+            "converted_currencyid": 2003,
+            "converted_steam_fee": 291,
+            "converted_publisher_fee": 582,
+            "converted_price_per_unit": 5829,
+            "converted_fee_per_unit": 873,
+            "converted_steam_fee_per_unit": 291,
+            "converted_publisher_fee_per_unit": 582,
+            "asset": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "1514957389",
+                "amount": "1",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16141620162460707255",
+                        "name": "Inspect in Game..."
+                    }
+                ]
+            }
+        }
+    },
+    "assets": {
+        "730": {
+            "2": {
+                "999761445": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "999761445",
+                    "classid": "657499697",
+                    "instanceid": "519977179",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "999761445",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/virtuspro.d09e01ff7eaefdf26330c6bf2036cfda0dcb4c35.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/teamldlc.c42985cc18855e89a2689ca3b11a1139bdf89f3f.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/navi.ba10531a835b688b607bfdc63f9db0e2827d5640.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/dreamhackwinter2014.7f9f7b4710147b77727273055f57445092f86348.png\"><br>Sticker: Virtus.Pro | DreamHack 2014, Team LDLC.com | DreamHack 2014, Natus Vincere | DreamHack 2014, DreamHack Winter 2014</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4388251855330838135A%assetid%D14709933171324928977",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4388251855330838135A%assetid%D14709933171324928977",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                },
+                "1514957389": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "1514957389",
+                    "classid": "408083654",
+                    "instanceid": "519977179",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "1514957389",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/standard/conquered.5b88d3a5fcb9b28792d46aa80d0d1726dcef79b2.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/standard/aces_high_holo.4a68cbc37e0306fcc1e25d66dba007fba8690a5b.png\"><br>Sticker: I Conquered, Aces High (Holo)</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4322947123449165659A%assetid%D16141620162460707255",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4322947123449165659A%assetid%D16141620162460707255",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                },
+                "18556623919": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "18556623919",
+                    "classid": "3840118811",
+                    "instanceid": "519977179",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "18556623919",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cs20/cs20_sas_boom.42d11844cc3bdb5a37de3d23afab4ee853c9072d.png\"><br>Sticker: Too Late</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3567415019122103598A%assetid%D2930862930337507699",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3567415019122103598A%assetid%D2930862930337507699",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                },
+                "24401486680": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "24401486680",
+                    "classid": "1244565676",
+                    "instanceid": "519977179",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "24401486680",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/navi.2a907bfdb5eaf77c42f30c7f374ff29d0f79dfe2.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/esl_a.fc2e4e24ecbf198f3f9736c051ff22feeb0e4ae3.png\"><br>Sticker: Natus Vincere | Katowice 2015, ESL One | Katowice 2015</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3548272183330949026A%assetid%D7530236447438301137",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3548272183330949026A%assetid%D7530236447438301137",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                },
+                "5042274388": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "5042274388",
+                    "classid": "674162828",
+                    "instanceid": "519977179",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "5042274388",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community02/drugwarveteran.be7827b1d4b80516def52a5e86a814a99fe186c2.png\"><br>Sticker: Drug War Veteran</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4364502788339156399A%assetid%D1064657558638076761",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4364502788339156399A%assetid%D1064657558638076761",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                },
+                "10698336459": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "10698336459",
+                    "classid": "1236721499",
+                    "instanceid": "519977179",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "10698336459",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/fnatic.d3d7096212ae149d70d077ddab7f4e2ce13af3ea.png\"><br>Sticker: Fnatic | Cologne 2015</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3523422564414891665A%assetid%D7962613604407446943",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3523422564414891665A%assetid%D7962613604407446943",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                },
+                "4549105758": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "4549105758",
+                    "classid": "1435673378",
+                    "instanceid": "519977179",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "4549105758",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/tsolo.4e3f0cf2735b8dca2ec59655a35e0247552ad8c3.png\"><br>Sticker: Team SoloMid | Cluj-Napoca 2015</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1935866193949891707A%assetid%D11533378503150822225",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1935866193949891707A%assetid%D11533378503150822225",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                },
+                "31884259229": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "31884259229",
+                    "classid": "2203746978",
+                    "instanceid": "0",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "31884259229",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/hlr.d3ba669e5d00dba577eed5c92f6b10197aabe2ee.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/hellraisers.0944aa8f11955542181061d4e93d28203930da97.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/hlr.d3ba669e5d00dba577eed5c92f6b10197aabe2ee.png\"><br>Sticker: HellRaisers | Atlanta 2017, HellRaisers | Katowice 2014, HellRaisers | Atlanta 2017</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4319566252869643372A%assetid%D17014817921790903733",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4319566252869643372A%assetid%D17014817921790903733",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                },
+                "14045115736": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "14045115736",
+                    "classid": "2657083027",
+                    "instanceid": "519977179",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "14045115736",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/sig_dosia_foil.97d653e34332a56a8e630f06507cc86c2a5cbca1.png\"><br>Sticker: Dosia (Foil) | Krakow 2017</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1938117359902415098A%assetid%D13988222782511516123",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1938117359902415098A%assetid%D13988222782511516123",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                },
+                "20116100967": {
+                    "currency": 0,
+                    "appid": 730,
+                    "contextid": "2",
+                    "id": "20116100967",
+                    "classid": "481427690",
+                    "instanceid": "0",
+                    "amount": "1",
+                    "status": 2,
+                    "original_amount": "1",
+                    "unowned_id": "20116100967",
+                    "unowned_contextid": "2",
+                    "background_color": "",
+                    "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JraflG4J7ZMg0-rHrI2lilewqEJvZmCid4aXcQ9tZQrU-gLvxu7pjZe5vIOJlyV3pXZeQg",
+                    "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iOyZ8Nqk0Vey8hJsMTqnd4eWdw9vMljS-VjtxbzrhcXtu53PwXNmuj5iuyjGLEfnUQ",
+                    "descriptions": [
+                        {
+                            "type": "html",
+                            "value": "Exterior: Well-Worn"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted in a zebra stripe pattern."
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "The Dust Collection",
+                            "color": "9da1a9"
+                        },
+                        {
+                            "type": "html",
+                            "value": " "
+                        },
+                        {
+                            "type": "html",
+                            "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/standard/conquered.5b88d3a5fcb9b28792d46aa80d0d1726dcef79b2.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/standard/dispatch.73f7d554c25d8712c0cfce3ba88a6915581e365d.png\"><br>Sticker: I Conquered, Black Dog</center></div>"
+                        }
+                    ],
+                    "tradable": 1,
+                    "actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4080853190187716178A%assetid%D4614715044119973853",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "name": "AK-47 | Predator",
+                    "name_color": "D2D2D2",
+                    "type": "Industrial Grade Rifle",
+                    "market_name": "AK-47 | Predator (Well-Worn)",
+                    "market_hash_name": "AK-47 | Predator (Well-Worn)",
+                    "market_actions": [
+                        {
+                            "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4080853190187716178A%assetid%D4614715044119973853",
+                            "name": "Inspect in Game..."
+                        }
+                    ],
+                    "commodity": 0,
+                    "market_tradable_restriction": 7,
+                    "marketable": 1,
+                    "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                    "owner": 0
+                }
+            }
+        }
+    },
+    "currency": [],
+    "hovers": "\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_3567415019122103598_name', 730, '2', '18556623919', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_3567415019122103598_image', 730, '2', '18556623919', 1 );\r\n\t\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_3548272183330949026_name', 730, '2', '24401486680', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_3548272183330949026_image', 730, '2', '24401486680', 1 );\r\n\t\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4364502788339156399_name', 730, '2', '5042274388', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4364502788339156399_image', 730, '2', '5042274388', 1 );\r\n\t\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_3523422564414891665_name', 730, '2', '10698336459', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_3523422564414891665_image', 730, '2', '10698336459', 1 );\r\n\t\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_1935866193949891707_name', 730, '2', '4549105758', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_1935866193949891707_image', 730, '2', '4549105758', 1 );\r\n\t\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4319566252869643372_name', 730, '2', '31884259229', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4319566252869643372_image', 730, '2', '31884259229', 1 );\r\n\t\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4388251855330838135_name', 730, '2', '999761445', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4388251855330838135_image', 730, '2', '999761445', 1 );\r\n\t\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_1938117359902415098_name', 730, '2', '14045115736', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_1938117359902415098_image', 730, '2', '14045115736', 1 );\r\n\t\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4080853190187716178_name', 730, '2', '20116100967', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4080853190187716178_image', 730, '2', '20116100967', 1 );\r\n\t\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4322947123449165659_name', 730, '2', '1514957389', 1 );\r\n\t\tCreateItemHoverFromContainer( g_rgAssets, 'listing_4322947123449165659_image', 730, '2', '1514957389', 1 );\r\n\t",
+    "app_data": {
+        "730": {
+            "appid": 730,
+            "name": "Counter-Strike 2",
+            "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+            "link": "https://steamcommunity.com/app/730"
+        }
+    }
+}
